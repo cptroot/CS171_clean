@@ -1,0 +1,12 @@
+[package]
+name = "parse"
+version = "0.1.0"
+authors = ["Evan Davis <cptroot@gmail.com>"]
+
+[dependencies]
+
+
+[dependencies.nom]
+version = "^3.1"
+features = ["nightly"]
+
